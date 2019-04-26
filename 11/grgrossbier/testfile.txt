@@ -1,0 +1,3 @@
+Testing that git will upload a directory.
+
+I'm also noting that it doesn't try to add empty files or folders. 
